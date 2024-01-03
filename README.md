@@ -1,5 +1,5 @@
 # Table of content
-[DockerizingQaEnv](DockerizingQaEnv)
+[DockerizingQaEnv](https://github.com/niyogv/DockerizingQaEnv/blob/main/README.md#dockerizingqaenv)
 
 [How it works?](https://github.com/niyogv/DockerizingQaEnv/blob/main/README.md#how-it-works)
 
