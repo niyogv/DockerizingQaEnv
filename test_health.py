@@ -18,8 +18,8 @@ retype='Test@123'
 def test_dashboard():
     driver = webdriver.Chrome()
     wait=WebDriverWait(driver,10)
-    driver.get('https://qadashboard.iome.ai/')
-    #self.driver.get('https://iome.ai')
+    driver.get('') # Confidential 
+    #self.driver.get('')
     driver.maximize_window()
     time.sleep(1)
     driver.find_element(By.XPATH, '//button').click()
