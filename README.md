@@ -11,6 +11,14 @@
 The project which here used is iome(moi-id)
 ![Screenshot 2024-01-03 at 12 21 09 PM](https://github.com/niyogv/DockerizingQaEnv/assets/77136963/f7dc62b3-d2b9-4263-9611-8b59230e3b30)
 
+# Test scenario
+- Sign up
+- Eidit profile
+- Update bio
+- Update settings page
+- Contact us
+- Create avatar
+
 # Why dockerizing the qa env
 **Consistency Across Environments:**
 Docker containers encapsulate the entire environment, including application code, dependencies, and configurations. This ensures consistency in the QA environment.
