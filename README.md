@@ -1,4 +1,8 @@
 # Table of content
+[About the project](https://github.com/niyogv/DockerizingQaEnv/blob/main/README.md#about-the-project)
+
+[Why dockerizing](https://github.com/niyogv/DockerizingQaEnv/blob/main/README.md#why-dockerizing-the-qa-env)
+
 [DockerizingQaEnv](https://github.com/niyogv/DockerizingQaEnv/blob/main/README.md#dockerizingqaenv)
 
 [How it works?](https://github.com/niyogv/DockerizingQaEnv/blob/main/README.md#how-it-works)
